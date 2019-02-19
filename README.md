@@ -1,7 +1,3 @@
 # Websites
-Built with HTML / CSS / JS + may include some other libraries
 
-# Purpose for this repo
-Mainly made this repo for improving/practicing my skills.
-
-# Feel free to use! :)
+This Main repo contains all of the websites I built, each indiviudal repo is its own seperate website, feel free to use any.
